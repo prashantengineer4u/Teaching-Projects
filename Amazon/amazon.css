@@ -1,0 +1,20 @@
+body
+{
+    background-color: brown;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    margin-top: -25px;
+}
+}
+li{
+list-style: none;
+display: inline;
+margin-right: 100px;
+}
+img{
+    height: 50px;
+    width:50px;

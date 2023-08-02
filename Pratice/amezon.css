@@ -1,0 +1,32 @@
+div{
+    background-color:#242B2E;
+    height: 40px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+#heading
+{
+    color:#f08804;
+    font-size: 30px;
+    margin-right:200px;
+}
+button
+{
+background-color: #f08804;
+color:white;
+padding: 6px 6px;
+height: 30px;
+}
+.margin
+{
+    margin-right:200px;
+    font-size: 20px;
+}
+input
+{
+    height: 20px;
+    width:200px
+}
+
